@@ -1,0 +1,6 @@
+{
+  "name": "K4 Store - Belanja Sembako & Bahan Pokok Daring",
+  "description": "Toko daring kebutuhan bahan pokok sehari-hari dengan pelacakan kurir real-time, pembayaran aman QRIS & COD, program loyalitas poin, live chat, dan manajemen inventaris.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
